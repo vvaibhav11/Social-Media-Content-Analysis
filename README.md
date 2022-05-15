@@ -6,7 +6,7 @@ Main script: SocialAnalyticsRCode
 
 Detailed document: Social Media Content Analysis
 
-Input data used are attached as excel files
+Size of input data used are big and cannot be uploaded due to size limit. 
 
 Contributors:
 
