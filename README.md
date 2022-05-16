@@ -16,4 +16,6 @@ Louis
 
 Senan
 
+For further details reach out to (vaibhav.vishal44@gmail.com)
+
 ** Disclaimer: This case study was done as a part of academic engagement and this repository don't promote any kind of plagiarism **
